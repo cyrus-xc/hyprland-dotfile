@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/cyrus/.config/waybar"
+		},
+		{
+			"path": "/home/cyrus/.config/hyde/themes"
+		},
+		{
+			"path": "../../../hypr"
+		}
+	],
+	"settings": {}
+}

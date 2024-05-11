@@ -1,0 +1,8 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[]"
+audio.sync_bitrate_enumeration=3
+audio.allow_downgrade=false
+audio.play_bitrate_enumeration=3
+audio.normalize_v2=false
+audio.play_bitrate_non_metered_enumeration=3
+app.player.volume=42985

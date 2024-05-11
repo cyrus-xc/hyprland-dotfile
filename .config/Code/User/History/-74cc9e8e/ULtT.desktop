@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cider
+Exec=env  --enable-features=WaylandWindowDecorations,UseOzonePlatform,WebRTCPipeWireCapturer --ozone-platform-hint=auto --ozone-platform=wayland --enable-wayland-ime /opt/Cider/cider %U
+Terminal=false
+Type=Application
+Icon=cider
+StartupWMClass=Cider
+Comment=A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.
+MimeType=x-scheme-handler/ame;x-scheme-handler/cider;x-scheme-handler/itms;x-scheme-handler/itmss;x-scheme-handler/musics;x-scheme-handler/music;
+Categories=AudioVideo;

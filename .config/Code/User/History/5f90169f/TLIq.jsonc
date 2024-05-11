@@ -1,0 +1,9 @@
+    "custom/night_shift": {
+        "format": "{} ",
+        "rotate": ${r_deg},
+        "exec": "wl-gammarelay --subscribe Brightness",
+        "on-scroll-up": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateBrightness d +0.02",
+        "on-scroll-down": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateBrightness d -0.02"
+    },
+
+

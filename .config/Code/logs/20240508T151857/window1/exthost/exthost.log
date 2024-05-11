@@ -1,0 +1,40 @@
+2024-05-08 15:18:58.329 [info] Extension host with pid 3741 started
+2024-05-08 15:18:58.344 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 15:18:58.364 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 15:18:58.367 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 15:18:58.384 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 15:18:58.426 [info] Eager extensions activated
+2024-05-08 15:18:58.477 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 15:18:58.479 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 15:18:59.599 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-08 15:18:59.612 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at I.loadCertificates (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:41182)
+	at Object.loadAdditionalCertificates (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:34302)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:475:53
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:474:43
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:476:16
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:472:12)
+	at addCertificatesV1 (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:456:9)
+	at resolveProxy (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:112:9)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:303:77
+	at new Promise (<anonymous>)
+	at _PacProxyAgent.resolveP [as resolver] (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:303:54)
+	at _PacProxyAgent.<anonymous> (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:70:37)
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:4:12)
+	at _PacProxyAgent.connect (/opt/visual-studio-code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:52:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/agent-base/dist/index.js:73:30
+2024-05-08 15:18:59.612 [info] Extension host with pid 3741 exiting with code 0

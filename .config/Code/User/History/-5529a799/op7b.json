@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 0.5,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false
+}

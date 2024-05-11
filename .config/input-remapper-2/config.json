@@ -1,0 +1,7 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Basic IO Instruments BIOI LUNA": "Arrow",
+        "UBEST zoom65 wireless rgb": "new preset"
+    }
+}

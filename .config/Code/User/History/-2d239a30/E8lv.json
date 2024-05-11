@@ -1,0 +1,112 @@
+{
+  "launcher": {
+    "language": "zh-cn",
+    "edition": "China",
+    "style": "Modern",
+    "temp": "/run/media/cyrus/Business/Games/Genshin Impact",
+    "repairer": {
+      "threads": 4,
+      "fast": false
+    },
+    "discord_rpc": {
+      "app_id": 901534333360304168,
+      "enabled": false,
+      "title": "Researching the world",
+      "subtitle": "of Teyvat",
+      "icon": "launcher"
+    },
+    "environment": "PC",
+    "behavior": "Hide"
+  },
+  "game": {
+    "path": {
+      "global": "/run/media/cyrus/Business/Games/Genshin Impact/Genshin Impact",
+      "china": "/run/media/cyrus/Business/Games/Genshin Impact/Genshin Impact Games"
+    },
+    "voices": [
+      "zh-cn"
+    ],
+    "wine": {
+      "prefix": "/run/media/cyrus/Business/Games/Genshin Impact/prefix",
+      "builds": "/run/media/cyrus/Business/Games/Genshin Impact/runners",
+      "selected": "wine-9.5-staging-tkg-amd64",
+      "sync": "FSync",
+      "language": "System",
+      "borderless": false,
+      "drives": {
+        "drive_c": true,
+        "game_folder": "G",
+        "map_folders": {}
+      },
+      "virtual_desktop": {
+        "enabled": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "shared_libraries": {
+        "wine": true,
+        "gstreamer": true
+      }
+    },
+    "dxvk": {
+      "builds": "/run/media/cyrus/Business/Games/Genshin Impact/dxvks"
+    },
+    "enhancements": {
+      "fsr": {
+        "strength": 2,
+        "quality": "Balanced",
+        "enabled": true
+      },
+      "gamemode": false,
+      "hud": "None",
+      "fps_unlocker": {
+        "path": "/run/media/cyrus/Business/Games/Genshin Impact/fps-unlocker",
+        "enabled": true,
+        "config": {
+          "fps": 120,
+          "interval": 5000
+        }
+      },
+      "gamescope": {
+        "enabled": false,
+        "game": {
+          "width": 0,
+          "height": 0
+        },
+        "gamescope": {
+          "width": 0,
+          "height": 0
+        },
+        "framerate": {
+          "focused": 0,
+          "unfocused": 0
+        },
+        "integer_scaling": true,
+        "fsr": false,
+        "nis": false,
+        "window_type": "Borderless",
+        "force_grab_cursor": false
+      }
+    },
+    "environment": {},
+    "command": null
+  },
+  "sandbox": {
+    "enabled": false,
+    "isolate_home": true,
+    "hostname": null,
+    "args": null,
+    "private": [],
+    "mounts": {
+      "read_only": {},
+      "bind": {},
+      "symlinks": {}
+    }
+  },
+  "components": {
+    "path": "/run/media/cyrus/Business/Games/Genshin Impact/components",
+    "servers": [
+      "https://github.com/an-anime-team/components"
+    ]
+  }
+}

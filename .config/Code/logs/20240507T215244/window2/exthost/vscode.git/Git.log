@@ -1,0 +1,18 @@
+2024-05-07 21:53:47.187 [info] Log level: Info
+2024-05-07 21:53:47.187 [info] Validating found git in: "git"
+2024-05-07 21:53:47.187 [info] Using git "2.45.0" from "git"
+2024-05-07 21:53:47.187 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-07 21:53:47.187 [info] fatal: not a git repository (or any parent up to mount point /run/media/cyrus)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-07 21:53:47.187 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-07 21:53:47.187 [info] fatal: not a git repository (or any parent up to mount point /run/media/cyrus)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-07 21:53:47.188 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-07 21:53:47.188 [info] fatal: not a git repository (or any parent up to mount point /run/media/cyrus)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-07 21:53:47.252 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-07 21:53:47.252 [info] fatal: not a git repository (or any parent up to mount point /run/media/cyrus)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-07 21:53:47.342 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-07 21:53:47.342 [info] fatal: not a git repository (or any parent up to mount point /run/media/cyrus)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

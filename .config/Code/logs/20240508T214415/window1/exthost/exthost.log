@@ -1,0 +1,19 @@
+2024-05-08 21:44:16.627 [info] Extension host with pid 706608 started
+2024-05-08 21:44:16.653 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 21:44:16.674 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 21:44:16.677 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 21:44:16.694 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 21:44:16.727 [info] Eager extensions activated
+2024-05-08 21:44:16.758 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 21:44:16.760 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 21:44:24.958 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-08 21:44:24.966 [info] Extension host with pid 706608 exiting with code 0
+2024-05-08 21:44:25.673 [info] Extension host with pid 706915 started
+2024-05-08 21:44:25.673 [info] Skipping acquiring lock for /home/cyrus/.config/Code/User/workspaceStorage/6d6e34356538efa59a7402640123b417.
+2024-05-08 21:44:25.732 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 21:44:25.898 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 21:44:25.983 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 21:44:26.002 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 21:44:26.049 [info] Eager extensions activated
+2024-05-08 21:44:26.078 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 21:44:26.079 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

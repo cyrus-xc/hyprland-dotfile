@@ -1,0 +1,108 @@
+2024-05-10 20:34:05.060 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.069 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.156 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.174 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.178 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.195 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.242 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.350 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.389 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.527 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.662 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.738 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.795 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:05.942 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:06.087 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:07.233 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:07.332 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:07.335 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:07.966 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:36.136 [info] Getting Manifest... ms-toolsai.jupyter
+2024-05-10 20:34:36.142 [info] Installing extension: ms-toolsai.jupyter
+2024-05-10 20:34:36.279 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:34:36.287 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-05-10 20:34:36.362 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cyrus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cyrus/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-05-10 20:39:07.373 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:44:07.391 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:49:07.409 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:54:07.426 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 20:59:07.443 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:04:07.460 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:09:07.477 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:14:07.494 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:19:07.509 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:24:07.640 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:29:07.655 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:34:07.673 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:39:07.691 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:44:07.708 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:49:07.725 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:54:07.742 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 21:59:07.758 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:04:07.775 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:09:07.791 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:14:07.807 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:19:07.822 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:24:07.938 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:29:07.953 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:34:07.969 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:39:07.984 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:44:08.000 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:49:08.015 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:54:08.031 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 22:59:08.047 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:04:08.064 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:09:08.081 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.075 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.079 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.153 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.218 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.405 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.504 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.548 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.603 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:25.663 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:12:27.524 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:14:08.098 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:17:27.566 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:19:08.112 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:22:27.578 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:24:08.284 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:27:27.591 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:29:08.302 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:32:27.602 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:34:08.317 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:37:27.613 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:39:08.332 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:42:27.624 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:44:08.346 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:47:27.634 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:49:08.361 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:52:27.645 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:54:08.378 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:57:27.656 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-10 23:59:08.393 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:02:27.667 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:04:08.408 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:07:27.678 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:09:08.423 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:12:27.688 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:14:08.438 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:17:27.700 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:19:08.454 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:22:27.711 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:24:08.598 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:27:27.722 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:29:08.616 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:32:27.733 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:34:08.632 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:37:27.747 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:39:08.647 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:42:27.760 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-11 00:44:08.663 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.

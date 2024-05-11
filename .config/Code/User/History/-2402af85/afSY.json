@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.pythonPath": "/home/cyrus/miniconda3/envs/AI/bin/python",
+    "cmake.configureOnOpen": false
+}

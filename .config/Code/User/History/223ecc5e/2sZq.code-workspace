@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.config/waybar"
+		},
+		{
+			"path": "../.config/hyde/themes"
+		},
+		{
+			"path": "../.config/hypr"
+		},
+		{
+			"path": "../.config/Code/User"
+		}
+	],
+	"settings": {}
+}

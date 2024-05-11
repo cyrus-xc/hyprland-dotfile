@@ -1,0 +1,6 @@
+[Added Associations]
+application/vnd.ms-publisher=code-2.desktop;
+image/png=org.gnome.eog.desktop;
+text/markdown=typora-5.desktop;typora-4.desktop;typora-3.desktop;typora-2.desktop;
+text/x-python3=code.desktop;
+

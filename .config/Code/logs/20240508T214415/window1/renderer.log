@@ -1,0 +1,6 @@
+2024-05-08 21:44:16.381 [info] Started local extension host with pid 706608.
+2024-05-08 21:44:19.161 [info] [perf] Render performance baseline is 147ms
+2024-05-08 21:44:19.433 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-08 21:44:25.453 [info] Started local extension host with pid 706915.
+2024-05-08 21:44:28.267 [info] [perf] Render performance baseline is 145ms
+2024-05-08 21:44:28.568 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.

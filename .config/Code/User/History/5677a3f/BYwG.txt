@@ -1,0 +1,2 @@
+yuanshen.exe        /home/cyrus/.steam/steam/steamapps/compatdata/2735385683 
+god_of_war          /home/cyrus/.steam/steam/steamapps/compatdata/2772804361

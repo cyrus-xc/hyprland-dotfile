@@ -1,0 +1,10 @@
+2024-05-07 21:52:45.482 [info] Extension host with pid 125441 started
+2024-05-07 21:52:45.483 [info] Skipping acquiring lock for /home/cyrus/.config/Code/User/workspaceStorage/5055d322aaffd303bc06899125d3047b.
+2024-05-07 21:52:45.504 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-07 21:52:45.520 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-07 21:52:45.545 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-07 21:52:45.585 [info] Eager extensions activated
+2024-05-07 21:52:45.615 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-07 21:52:45.617 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-07 21:53:49.502 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-07 21:53:49.511 [info] Extension host with pid 125441 exiting with code 0

@@ -1,0 +1,5 @@
+2024-05-07 22:09:52.249 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/cyrus/.steam/steam/steamapps/compatdata/游戏对应文件.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-05-07 22:09:52.536 [info] Started local extension host with pid 164347.
+2024-05-07 22:09:55.360 [info] [perf] Render performance baseline is 139ms
+2024-05-07 22:09:55.568 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
+2024-05-07 22:13:32.774 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

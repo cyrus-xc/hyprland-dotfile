@@ -1,0 +1,9 @@
+    "night_shift": {
+        "format": "{} ",
+        "rotate": ${r_deg},
+        "on-click": "bash ~/.config/waybar/scripts/sunONOFF",
+        "on-scroll-up": "bash ~/.config/waybar/scripts/red_dec",
+        "on-scroll-down": "bash ~/.config/waybar/scripts/red_inc"
+    },
+
+

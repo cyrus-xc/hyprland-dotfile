@@ -1,0 +1,2 @@
+2024-05-08 15:18:58.103 [info] Started local extension host with pid 3741.
+2024-05-08 15:18:58.141 [error] [/home/cyrus/.vscode/extensions/ms-toolsai.jupyter-2024.4.0-linux-x64]: Extension is not compatible with Code 1.88.1. Extension requires: ^1.89.0.
